@@ -63,7 +63,7 @@ const AboutPage = () => {
                 alt="Team Member"
                 className="w-24 h-24 object-cover rounded-full mx-auto mb-4"
               />
-              <h3 className="text-xl font-semibold">Siraj Shaikh</h3>
+              <h3 className="text-xl font-semibold">Aditya Ghode</h3>
               <p className="text-gray-400">Developer</p>
             </div>
 

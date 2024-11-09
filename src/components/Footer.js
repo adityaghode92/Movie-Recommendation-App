@@ -19,7 +19,7 @@ const Footer = () => {
             Contact
           </Link>
         </div>
-        <p className="text-center text-sm">Created By Siraj Shaikh</p>
+        <p className="text-center text-sm">Created By Aditya Ghode</p>
       </div>
     </footer>
   );
